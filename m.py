@@ -11,7 +11,6 @@ print("hello from Speed_Time4")
 
 
 # grades = {
-#     "Anna": 10,
 #     "Bohdan": 8,
 #     "Oleh": 12,
 #     "Iryna": 9
