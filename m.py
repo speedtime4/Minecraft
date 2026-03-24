@@ -1,3 +1,4 @@
+print("hello from Speed_Time4")
 # a=["Даниэль",10,"Эйлат","майнкрафт и роблокс"]
 # print("меня зовут ",a[0],".мне ",a[1])
 # b={"Name":"Daniel","age":10,}
@@ -27,7 +28,6 @@ a=("Minecraft is a sandbox game developed and published by "
 " The game has since been ported to numerous platforms, including mobile devices"
 " and various video game consoles.")
 
-print(a)
 b={"a":0}
 for i in a.lower():
     print(i)
