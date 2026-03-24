@@ -1,6 +1,6 @@
 print("hello from Speed_Time4")
-for i in range(1,10)
-print(i)
+for i in range(1,10):
+    print(i)
 # a=["Даниэль",10,"Эйлат","майнкрафт и роблокс"]
 # print("меня зовут ",a[0],".мне ",a[1])
 # b={"Name":"Daniel","age":10,}
